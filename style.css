@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+#game-container {
+  margin-top: 50px;
+}
+
+#score {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#click-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
